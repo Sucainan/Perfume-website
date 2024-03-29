@@ -29,10 +29,11 @@ hr {
     justify-content: center;
     gap: 15%;
 }
-.div-navbar > P{
+.div-navbar > a{
     color: #E18379;
     font-size: 0.9rem;
     margin-top: -0vw;
     font-family: Grenze, sans-serif;
     font-weight: 500;
+    text-decoration: none;
 }
