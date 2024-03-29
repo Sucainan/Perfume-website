@@ -13,16 +13,17 @@ html{
   margin-top: 2vw;
 }
 .svg-image1 {
-  height: 9vh;
+  height: 7vh;
   width: 9vw;
   margin-top: 1.3vw;
-  opacity: 0.3;
+  margin-bottom: 0.7rem;
+  z-index: -1;
 }
 hr {
   margin-top: -1.3vw; 
   border-color: #E6B4BF;
   width: 73vw;
-  opacity: 1.0;
+  margin-bottom: 1rem;
 }
 .div-navbar{
     display: flex;
