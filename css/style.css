@@ -1,0 +1,38 @@
+html{
+    font-size: 3vh;
+}
+.nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 30%;
+}
+.svg-image {
+  height: 3vh;
+  width: 3vw;
+  margin-top: 2vw;
+}
+.svg-image1 {
+  height: 9vh;
+  width: 9vw;
+  margin-top: 1.3vw;
+  opacity: 0.3;
+}
+hr {
+  margin-top: -1.3vw; 
+  border-color: #E6B4BF;
+  width: 73vw;
+  opacity: 1.0;
+}
+.div-navbar{
+    display: flex;
+    justify-content: center;
+    gap: 15%;
+}
+.div-navbar > P{
+    color: #E18379;
+    font-size: 0.9rem;
+    margin-top: -0vw;
+    font-family: Grenze, sans-serif;
+    font-weight: 500;
+}
