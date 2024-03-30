@@ -1,6 +1,10 @@
 html{
     font-size: 3vh;
 }
+body {
+  width: 90vw;
+  margin-inline: auto;
+}
 .nav {
   display: flex;
   flex-direction: row;
@@ -37,4 +41,44 @@ hr {
     font-family: Grenze, sans-serif;
     font-weight: 500;
     text-decoration: none;
+}
+.hero {
+  display: flex;
+  justify-content: center;
+  /* align-items: center; */
+  margin-left: 8rem;
+}
+.head {
+  color: #E18379;
+  font-size: 3rem;
+  font-family: Griffy, sans-serif;
+  font-weight: 100;
+  margin-bottom: -0.1rem;
+  margin-top: 9rem;
+}
+.img {
+  width: 35rem;
+}
+.svg {
+   position: absolute;
+   top: 26rem;
+   left: 13rem;
+
+}
+.but {
+  background-color: #E18379;
+  width: 9.5vw;
+  height: 6vh;
+  border-style: none;
+  border-radius: 70px;
+  color: white;
+  font-size: 0.8rem;
+  font-family: Grenze sans-serif;
+}
+
+.arrow {
+  position: absolute;
+  top: 42.5vh;
+  left: 22.6vw;
+  width: 1.1vw;
 }
