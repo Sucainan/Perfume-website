@@ -82,3 +82,52 @@ hr {
   left: 22.6vw;
   width: 1.1vw;
 }
+.about{
+  display: flex;
+  justify-content: center;
+}
+.img-about{
+  height: 60vh;
+  width: 30vw;
+}
+.container-about{
+display: flex;
+gap: 5%;
+justify-content: center;
+}
+
+.header2-container{
+  font-size: 2.5rem;
+  font-family: Griffy,sans-serif;
+  color: #E18379;
+  font-weight: 100;
+  margin-bottom: -1vw;
+}
+.paragrapgh-about{
+  font-size: 1rem;
+  font-weight: 500;
+  width: 22vw;
+  font-family: Grenze,sans-serif;
+  color: #9F768A;
+}
+.container-about2{
+  margin-top: -5rem;
+}
+.buy{
+  background-color: #E18379;
+  width: 9.5vw;
+  height: 6vh;
+  border-style: none;
+  border-radius: 70px;
+  color: white;
+  font-size: 0.8rem;
+  font-family: Grenze sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.Vector1{
+  position: absolute;
+  left: 70vw;
+  top: 165vh;
+}
